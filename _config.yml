@@ -33,8 +33,8 @@ instagram: 'htxdogtrainer'
 #blog_url: 'myblog.blog.com'
 email: 'htxdogtrainer@gmail.com'
 #messenger: 'myfbchat'
-text: '+18322832334'
-phone: '832-283-2334'
+text: '8322832334'
+phone: '8322832334'
 
 social-links-order: [instagram, email, text, phone]
 
@@ -159,7 +159,7 @@ social-links:
   - name: text
     url-scheme: 'sms://'
     url-pattern: '__USERNAME__'
-    icon-class: fas fa-2x fa-sms
+    icon-class: fas fa-2x fa-comment
 
   - name: phone
     url-scheme: 'tel://'
