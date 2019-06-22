@@ -2,12 +2,12 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'htxdogtrainer'
-description: 'Marissa Gutierrez, canine trainer and behavior specialist'
+title: 'Marissa Gutierrez'
+description: 'canine trainer and behavior specialist'
 
 # Images
 avatar: 'IMG_20190621_222819_01.jpg'
-background: 'IMG_20190621_222923_01.jpg'
+background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
