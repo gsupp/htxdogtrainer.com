@@ -34,9 +34,9 @@ instagram: 'htxdogtrainer'
 email: 'htxdogtrainer@gmail.com'
 #messenger: 'myfbchat'
 text: '8322832334'
-phone: '8322832334'
+call: '8322832334'
 
-social-links-order: [instagram, email, text, phone]
+social-links-order: [instagram, email, text, call]
 
 # Advanced settings
 plugins:
@@ -161,7 +161,7 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-comment
 
-  - name: phone
+  - name: call
     url-scheme: 'tel://'
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-phone
