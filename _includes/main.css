@@ -1,6 +1,12 @@
 body {
     font-family: Helvetica,Arial,sans-serif;
     background-color: rgba(0, 0, 0, 0);
+    {% if site.background %}
+    background-image: url('{{ site.background }}');
+    background-repeat: no-repeat; /* you know... don't repeat... */
+    background-position: center center; /*center the background */
+    background-attachment: fixed; /*don't scroll with content */
+    {% endif %}
     position: absolute;
     top: 0;
     bottom: 0;
