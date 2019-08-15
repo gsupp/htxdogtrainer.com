@@ -37,7 +37,7 @@ email: 'htxdogtrainer@gmail.com'
 text: '8322832334'
 call: '8322832334'
 
-social-links-order: [instagram, email, text, call]
+social-links-order: [instagram, facebook, email, text, call]
 
 # Advanced settings
 plugins:
